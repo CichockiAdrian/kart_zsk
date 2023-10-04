@@ -1,0 +1,8 @@
+  232  cat plik.doc
+  233  mkidir historia
+  234  mkdir historia
+  235  historia 8 > historia_8
+  236  history 8 > historia_8
+  237  cd historia
+  238  ls
+  239  history 8 > historia_8
